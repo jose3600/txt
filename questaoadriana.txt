@@ -1,0 +1,199 @@
+Pergunta 1 (1 ponto) 
+ Salvo
+Durante uma Sprint, o Product Owner percebe que uma nova necessidade do mercado surgiu e considera que ela é mais importante do que alguns itens atualmente planejados. Qual é a atitude mais adequada?
+
+Opções da pergunta 1:
+
+Solicitar ao Scrum Master que substitua imediatamente os itens da Sprint Backlog pela nova demanda.
+
+
+Adicionar o novo item à Sprint Backlog obrigatoriamente, independentemente da capacidade da equipe.
+
+
+Alterar diretamente a Sprint Goal para acomodar a nova necessidade.
+
+
+Conversar com os Developers para verificar se é possível adaptar o plano sem comprometer a Sprint Goal.
+
+
+Cancelar a Sprint sempre que surgir uma nova necessidade de negócio.
+
+Pergunta 2 (1 ponto) 
+ Salvo
+Qual das alternativas melhor representa o objetivo principal da Sprint Review?
+
+Opções da pergunta 2:
+
+Apresentar um relatório de produtividade para a gerência.
+
+
+Avaliar individualmente o desempenho dos Developers durante a Sprint.
+
+
+Inspecionar o resultado da Sprint e discutir possíveis adaptações futuras com os stakeholders.
+
+
+Definir detalhadamente todas as tarefas da próxima Sprint.
+
+
+Identificar exclusivamente problemas técnicos ocorridos durante a Sprint.
+
+Pergunta 3 (1 ponto) 
+ Salvo
+Uma equipe Scrum termina uma Sprint e percebe que vários itens foram desenvolvidos, mas não atendem à Definition of Done. O que deve acontecer com esses itens?
+
+Opções da pergunta 3:
+
+Os itens podem ser considerados concluídos caso tenham atingido pelo menos 80% dos critérios.
+
+
+Os itens devem ser apresentados na Sprint Review como incrementos concluídos.
+
+
+Os itens não fazem parte do Increment e devem continuar no Product Backlog.
+
+
+Os itens devem ser considerados concluídos se o Product Owner aprová-los.
+
+
+O Scrum Master pode decidir individualmente quais itens serão considerados concluídos.
+
+Pergunta 4 (1 ponto) 
+ Salvo
+Durante a Daily Scrum, os Developers percebem que o plano atual provavelmente não permitirá atingir a Sprint Goal. Qual deve ser a consequência mais adequada?
+
+Opções da pergunta 4:
+
+Os Developers devem adaptar o plano para alcançar a Sprint Goal.
+
+
+A Sprint Goal deve ser substituída pela nova meta definida pelos Developers.
+
+
+O Scrum Master deve criar um novo plano para os Developers.
+
+
+O Product Owner deve assumir o planejamento restante da Sprint.
+
+
+A Sprint deve ser imediatamente cancelada.
+
+Pergunta 5 (1 ponto) 
+ Salvo
+Uma organização deseja aumentar a duração das Sprints de duas para quatro semanas para "dar mais tempo para a equipe produzir". Qual princípio do Scrum deve ser considerado nessa decisão?
+
+Opções da pergunta 5:
+
+Sprints devem obrigatoriamente durar exatamente duas semanas.
+
+
+A duração da Sprint deve ser definida exclusivamente pelo Scrum Master.
+
+
+Sprints mais longas sempre aumentam a produtividade.
+
+
+Sprints mais curtas permitem ciclos de inspeção e adaptação mais frequentes e reduzem riscos.
+
+
+A duração da Sprint deve ser fixa durante toda a existência do produto.
+
+Pergunta 6 (1 ponto) 
+ Salvo
+Qual situação representa melhor o conceito de transparência no Scrum?
+
+Opções da pergunta 6:
+
+Os Developers escondem problemas técnicos até que tenham uma solução definitiva.
+
+
+Os artefatos e o progresso em direção às metas possuem um entendimento comum entre os participantes.
+
+
+O Product Owner mantém o Product Backlog restrito para evitar interferência dos stakeholders.
+
+
+Cada membro do Scrum Team mantém seu próprio indicador privado de produtividade.
+
+
+O Scrum Master produz relatórios detalhados para a gerência após cada Daily Scrum.
+
+Pergunta 7 (1 ponto) 
+ Salvo
+Durante o Product Backlog Refinement, os Developers identificam que um item possui dependências e riscos significativos. Qual é a abordagem mais adequada?
+
+Opções da pergunta 7:
+
+Refinar o item, aumentando o entendimento sobre ele e tornando-o suficientemente.
+
+
+Transferir a responsabilidade pelo item ao Scrum Master.
+
+
+Remover automaticamente o item do Product Backlog.
+
+
+Ignorar os riscos até o início da Sprint.
+
+
+Colocar obrigatoriamente o item na próxima Sprint para reduzir o risco.
+
+Pergunta 8 (1 ponto) 
+ Salvo
+Um Product Owner deseja incluir cinco novos itens no meio da Sprint porque considera que eles possuem maior valor do que itens ainda não iniciados. Os Developers afirmam que conseguem fazer a alteração sem comprometer a Sprint Goal. Qual alternativa está mais alinhada ao Scrum?
+
+Opções da pergunta 8:
+
+O Scrum Master deve aprovar qualquer alteração no escopo da Sprint.
+
+
+O Product Owner não pode alterar o Product Backlog durante uma Sprint.
+
+
+Os Developers podem renegociar o escopo com o Product Owner conforme necessário, desde que a Sprint Goal não seja colocada em risco.
+
+
+Qualquer alteração no escopo exige o cancelamento da Sprint, que somente pode ser cancelada pelo Scrum Master.
+
+
+Somente stakeholders externos podem autorizar mudanças durante a Sprint.
+
+Pergunta 9 (1 ponto) 
+ Salvo
+Uma equipe apresenta um Incremento no final da Sprint. O Incremento atende aos critérios técnicos definidos pela equipe, mas o Product Owner afirma que o produto não possui valor suficiente para ser liberado aos usuários. Qual afirmação é mais adequada?
+
+Opções da pergunta 9:
+
+O Scrum Master deve decidir se o Incremento possui valor.
+
+
+O Scrum Master deve decidir se o Incremento possui valor.
+
+
+O Incremento não existe porque o Product Owner não o considera valioso.
+
+
+O Incremento pode existir mesmo que não seja liberado, desde que atenda à Definition of Done.
+
+
+Um Incremento só existe quando é colocado em produção.
+
+Pergunta 10 (1 ponto) 
+ Salvo
+Uma organização mede o desempenho de diferentes Scrum Teams utilizando exclusivamente a quantidade de Story Points entregues por Sprint. Com o tempo, as equipes começam a aumentar artificialmente suas estimativas. Qual problema Scrum essa situação evidencia?
+
+Opções da pergunta 10:
+
+O uso inadequado de métricas pode incentivar comportamentos que prejudicam a transparência e a geração de valor.
+
+
+Story Points devem ser definidos pelo Scrum Master para evitar manipulação.
+
+
+O Scrum exige que Story Points sejam iguais entre diferentes equipes.
+
+
+A velocidade é uma métrica obrigatória para avaliar indivíduos.
+
+
+O Product Owner deve determinar quantos Story Points cada equipe deve produzir.
